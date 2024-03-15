@@ -1,4 +1,4 @@
-### Hey there, I'm [Your Name]! 👋
+### Hey there, I'm atrly! 👋
 
 🌟 **About Me**
 
@@ -16,9 +16,8 @@ I'm a passionate software developer with expertise in Java, web development, and
 
 🚀 **Projects**
 
-- **[Project Name](link):** Funny open source siren website that i made when i first learned html.
-- **[Project Name](link):** Cool open source .
-- **[Project Name](link):** Brief description of the project.
+- **[Siren](https://github.com/TussleYT/Siren):** Funny open source siren website that i made when i first learned html.
+- **[Nyan Cat](https://github.com/TussleYT/Nyan-Cat):** Cool open source .
 
 🌐 **Connect**
 
